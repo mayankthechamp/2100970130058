@@ -15,7 +15,9 @@ This project implements a microservice that fetches and displays top products fr
 - **REST APIs:** Follows RESTful principles for resource management.
 -
 -
-- ![E-commerce 1](https://github.com/mayankthechamp/2100970130058/assets/99077491/dd725bd4-1a3d-4c72-890a-0cde48360d06)
+
+
+![E-commerce 1](https://github.com/mayankthechamp/2100970130058/assets/99077491/149e3cf4-2e16-453a-9ee1-6b244c8a2bcf)
 
 
 #### Setup Instructions:
