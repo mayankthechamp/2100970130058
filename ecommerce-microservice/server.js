@@ -13,8 +13,8 @@ const fetchAccessToken = async () => {
     try {
         const response = await axios.post('http://20.244.56.144/test/auth', {
             companyName: "goMart",
-            clientID: "4284630c-99a9-441d-8eaf-e5fae7cc34d8",
-            clientSecret: "JlEJMZXlCjJSTMqo",
+            clientID: "e2da22fb-5f43-410f-baac-fc79775e0251",
+            clientSecret: "cEFlHpOkhAFbuRBe",
             ownerName: "Mayank Singh",
             ownerEmail: "mayank26022003@gmail.com",
             rollNo: "2100970130058"
