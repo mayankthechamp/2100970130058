@@ -15,9 +15,9 @@ const fetchAccessToken = async () => {
             companyName: "goMart",
             clientID: "4284630c-99a9-441d-8eaf-e5fae7cc34d8",
             clientSecret: "JlEJMZXlCjJSTMqo",
-            ownerName: "Gaurav",
-            ownerEmail: "gauravpathak182@gmail.com",
-            rollNo: "2100970130038"
+            ownerName: "Mayank Singh",
+            ownerEmail: "mayank26022003@gmail.com",
+            rollNo: "2100970130058"
         });
         accessToken = response.data.accessToken;
     } catch (error) {
